@@ -1,6 +1,6 @@
 body
 {
-   background-color: #FFFFFF;
+   background-color: #DCDCDC;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
@@ -27,7 +27,7 @@ body
    margin: 0;
    text-align: center;
 }
-#wb_Text1
+#wb_Text1 
 {
    background-color: transparent;
    background-image: none;
@@ -40,7 +40,7 @@ body
 {
    text-align: left;
 }
-#wb_Text2
+#wb_Text2 
 {
    background-color: transparent;
    background-image: none;
